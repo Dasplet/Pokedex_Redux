@@ -1,0 +1,20 @@
+Para realizar este poryecto se tuvo que descargar, añadir o cambiar
+los siguientes comandos en la terminal del powershell:
+
+1. Para creat el projecto usando React Redux Toolkit
+npx create-react-app [nombre del arichvo] --template redux-typescript
+
+2.
+
+
+
+yarn add sass react-toastify react-router-dom axios
+
+yarn start
+react-scripts start
+
+React (Interfaces)
+Redux Toolkit (Local Host)
+Sass (CSS asociado a React)
+Typescript (JavaScript asociado a React)
+Google Firebase (Compilador para "Mis Pokemones")
